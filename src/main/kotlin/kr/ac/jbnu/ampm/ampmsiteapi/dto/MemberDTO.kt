@@ -1,6 +1,6 @@
-package kr.ac.jbnu.ampm.ampmsiteapi.DTO
+package kr.ac.jbnu.ampm.ampmsiteapi.dto
 
-import kr.ac.jbnu.ampm.ampmsiteapi.Entity.MemberEntity
+import kr.ac.jbnu.ampm.ampmsiteapi.entity.MemberEntity
 
 data class MemberDTO(
     var id: Long?,

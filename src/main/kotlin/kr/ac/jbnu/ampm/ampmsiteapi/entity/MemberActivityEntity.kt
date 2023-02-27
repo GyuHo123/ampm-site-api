@@ -1,9 +1,9 @@
-package kr.ac.jbnu.ampm.ampmsiteapi.Entity
+package kr.ac.jbnu.ampm.ampmsiteapi.entity
 
 import jakarta.persistence.GeneratedValue
 import jakarta.persistence.GenerationType
 import jakarta.persistence.Id
-import kr.ac.jbnu.ampm.ampmsiteapi.DTO.MemberActivityDTO
+import kr.ac.jbnu.ampm.ampmsiteapi.dto.MemberActivityDTO
 
 class MemberActivityEntity(
     @Id

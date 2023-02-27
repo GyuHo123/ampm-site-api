@@ -1,10 +1,10 @@
-package kr.ac.jbnu.ampm.ampmsiteapi.Entity
+package kr.ac.jbnu.ampm.ampmsiteapi.entity
 
 import jakarta.persistence.Entity
 import jakarta.persistence.GeneratedValue
 import jakarta.persistence.GenerationType
 import jakarta.persistence.Id
-import kr.ac.jbnu.ampm.ampmsiteapi.DTO.MemberDTO
+import kr.ac.jbnu.ampm.ampmsiteapi.dto.MemberDTO
 import lombok.Getter
 import lombok.Setter
 
